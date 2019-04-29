@@ -27,8 +27,9 @@ lorem ipsum lorem ipsum lorem ipsum<br>
 ## Como ganho XP?
 
 | Mapas | Com Bloco | Sem Bloco |
-| Ações     | XP    | XP    |
 |:----------|:------|:------|
+| Ações     | XP    | XP    |
+||||
 | Matar     | +65 XP | +45 XP |
 | Matar com `HE` | +20 XP | 0 XP |
 | Matar de `HS`    | +50 XP | 0 XP |
