@@ -3,10 +3,12 @@ layout: default
 ---
 
 # O quê é XP Mod?
+
 XP Mod é um complemento para o HideNSeek.<br>
 Os jogadores ganham pontos de XP por quão bem eles jogam.
 
 ## Primeira vez jogando?
+
 Se for sua primeira vez jogando HideNSeek com XP Mod, você ganhou 1000 de XP!<br>
 Você ganha XP baseado na sua jogabilidade, e podera comprar mais upgrades nos menus.
 
@@ -18,17 +20,21 @@ Você ganha XP baseado na sua jogabilidade, e podera comprar mais upgrades nos m
 ## Modos de jogo
 
 ### Com blocos
+
 lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum<br>
 lorem ipsum lorem ipsum lorem ipsum<br>
 ### Sem blocos
+
 Em todos os mapas com final `_noblock`<br>
 Seus UPGRADES serão desligados para nao desbalancear o modo.<br>
 Você ganhara xp extra por sobreviver de TERRORISTA<br>
 Todos os terroristas vão receber:
 - 2 Flashbangs
 - 1 Frost Nade
-#### O quê mais muda no Sem blocos?
-| Para os > | TR's | CT's |
+
+### O quê mais muda no Sem blocos?
+
+|  | TR's | CT's |
 |:----------------|:----------------|:----------------|
 | 20% Redução no dano de queda | ✓ | ✓ |
 | Regeneração de vida | ✕ | ✓ |
@@ -53,6 +59,7 @@ Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
 * * *
 
 ## Menu de Granadas
+
 > The Grenades ability for the XP Mod is for Terrorists only.<br>
 > The Grenades ability contains the HE Grenade, 2 Flashbangs, and Frost Nade.<br>
 > These are the grenades you are given when you receive the your items after the hide timer ends.<br>
@@ -64,6 +71,7 @@ Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
 | Max Chance | 100% | 100% | 100% | 100% |
 
 ## Menu de Vida Extra
+
 > O Upgrade `Vida Extra` é a quantidade de Vida que sera adicionada no incio do round.
 
 | Time > | Terrorista | CT's |
@@ -73,6 +81,7 @@ Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
 | Vida máxima | 200 HP | 150 HP |
 
 ## Menu de Colete Extra
+
 > The Armor ability is the amount of AP that given to you at spawn.
 
 | Time > | Terrorista | CT's |
@@ -82,9 +91,11 @@ Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
 | Colete máximo | 200 AP | 150 AP |
 
 ### Por que comprar colete?
+
 > Colete é um item importantíssimo para os `CT's` lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem
 
 ## Respawn Menu
+
 > The Respawn ability is chance to be respawned when you die.
 
 | Time > | Terrorista | CT's |
@@ -94,6 +105,7 @@ Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
 | Chance máxima | 45% | 100% |
 
 ## Menu de Dano de queda
+
 > The Fall Damage ability reduces the amount of damage inflicted from falling.
 
 | Time > | Terrorista | CT's |
@@ -103,6 +115,7 @@ Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
 | Chance máxima | 80% | 80% |
 
 #### Donate
+
 * [Steam Trade Offer](https://steamcommunity.com/tradeoffer/new/?partner=86976147&token=P6xfDcHF)
 
 #### TO-DO
