@@ -14,7 +14,7 @@ Você ganha XP baseado na sua jogabilidade, e podera comprar mais upgrades nos m
 
 ### Comandos
 ``` sourcepawn
-!xp, !cm, !mm, !store, Abre o menu principal do XP Mod
+!xp, !cm, !mm, !store Abre o menu principal do XP Mod
 !hide Esconde / Mostra o rastro dos jogadores
 ```
 ## Modos de jogo
@@ -25,8 +25,8 @@ lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum<br>
 lorem ipsum lorem ipsum lorem ipsum<br>
 * ### Sem blocos
 
-Em todos os mapas com final `_noblock`<br>
-Seus UPGRADES serão desligados para nao desbalancear o modo.<br>
+Em todos os mapas com final `_noblock` Exemplo: `hns_devblocks_v4_noblock`<br>
+Seus UPGRADES serão desligados para não desbalancear o modo.<br>
 Você ganhara xp extra por sobreviver de TERRORISTA<br>
 Todos os terroristas vão receber:
 - 2 Flashbangs
@@ -121,9 +121,25 @@ Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
 * [Steam Trade Offer](https://steamcommunity.com/tradeoffer/new/?partner=86976147&token=P6xfDcHF)
 
 #### TO-DO
-* Fazer com que players que não possuem vip possam comprar `Skins e Rastros` com XP
-* Top 10 do XPMod com rank
+``` sourcepawn
++ Adicionar
+- Remover
+* Modificar
 
-- xptotal
-- First played / last seen
-- Total time played
++ Site para vender VIP por skins de CS:GO.
+
++ Fazer !rank e um !top10 para recompensar os melhores jogadores com XP EXTRA!
++ Fazer com que players que não possuam vip possam comprar `Skins e Rastros` com XP
+
++ new g_xptotal[ MAXPLAYERS + 1 ]; (TOP 10)
++ new g_pFirstPlayed[ MAXPLAYERS + 1 ]; (site)
++ new g_pLastSeen[ MAXPLAYERS + 1 ]; (site)
++ new g_pTotalTimePlayed[ MAXPLAYERS + 1 ]; (site)
+
+:TALVEZ:
++ Menu de Habilidade
++ Anti-Flash ( % por flash tacada )
++ Dano Extra
+
+* Como estou salvando o xp
+```
