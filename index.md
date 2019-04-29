@@ -29,7 +29,7 @@ Todos os terroristas vão receber:
 - 1 Frost Nade
 #### O quê mais muda no Sem blocos?
 | Para os > | TR's | CT's |
-|:----------|:---|:---|
+|:----------------|:----------------|:----------------|
 | 20% Redução no dano de queda | ✓ | ✓ |
 | Regeneração de vida | ✕ | ✓ |
 | Imune a facadas por 3 segundos | ✓ | ✕ |
@@ -37,7 +37,7 @@ Todos os terroristas vão receber:
 ## Como ganho XP?
 
 | Em Mapas | Com Bloco | Sem Bloco |
-|:----------|:------|:------|
+|:----------------|:----------------|:----------------|
 | Ações     | XP    | XP    |
 | Matar     | +65 XP | +45 XP |
 | Matar com `HE` | +20 XP | 0 XP |
