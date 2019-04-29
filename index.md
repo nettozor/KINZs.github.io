@@ -107,13 +107,13 @@ Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
 
 ## Menu de Dano de queda
 
-> The Fall Damage ability reduces the amount of damage inflicted from falling.
+> A habilidade de `dano de queda` reduz a quantidade de dano causado pela queda.
 
 | Time | Terrorista | CT's |
 |:-------------|:-------------|:------------------|
 | Intervalos de redução | 10% | 10% |
 | Nível máximo | 8 | 8 |
-| Chance máxima | 80% | 80% |
+| Redução máxima | 80% | 80% |
 
 #### Donate
 * [Steam Trade Offer](https://steamcommunity.com/tradeoffer/new/?partner=86976147&token=P6xfDcHF)
