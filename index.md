@@ -142,12 +142,8 @@ Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
 * Como estou salvando o xp
 ```
 
-##### Plugin Info & Updates recentes
+##### Updates recentes
 ``` sourcepawn 
-new const PLUGIN_NAME[ ] = "HideNSeek: XPMod";
-new const PLUGIN_VERS[ ] = "1.7.4";
-new const PLUGIN_AUTH[ ] = "KINZ";
-
 UPDATE > 1.7.4: 
 + Player Skins (models) para os jogadores
 + Rastros (trais) para os jogadores
