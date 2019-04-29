@@ -28,9 +28,9 @@ lorem ipsum lorem ipsum lorem ipsum<br>
 Em todos os mapas com final `_noblock` Exemplo: `hns_devblocks_v4_noblock`<br>
 Seus UPGRADES serão desligados para não desbalancear o modo.<br>
 Você ganhara xp extra por sobreviver de TERRORISTA<br>
-Todos os terroristas vão receber:
-- 2 Flashbangs
-- 1 Frost Nade
+Todos os terroristas receberão:
+* 2 Flashbangs
+* 1 Frost Nade
 
 ### O quê mais muda no Sem blocos?
 
@@ -62,47 +62,46 @@ Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
 
 ## Menu de Granadas
 
-> The Grenades ability for the XP Mod is for Terrorists only.<br>
-> The Grenades ability contains the HE Grenade, 2 Flashbangs, and Frost Nade.<br>
-> These are the grenades you are given when you receive the your items after the hide timer ends.<br>
+> A habilidade `Granadas` no XP Mod é apenas para terroristas.<br>
+> A habilidade `Granadas` contém HE Grenade, 2 Flashbangs e uma Frost Nade.<br>
+> Estas são as `Granadas` que você receberá no começo de cada round.
 
 |  | HE Grenade | Flashbang #1 | Flashbang #2 | Frost Nade |
 |:-------------|:-------------|:------------------|:-------------|:------------------|
-| Chance Intervals | 12.5% | 25% | 25% | 25% |
-| Max Level | 8 | 4 | 4 | 4 |
-| Max Chance | 100% | 100% | 100% | 100% |
+| Intervalos de chance | 12.5% | 25% | 25% | 25% |
+| Nível máximo | 8 | 4 | 4 | 4 |
+| Chance máxima | 100% | 100% | 100% | 100% |
 
 ## Menu de Vida Extra
 
-> O Upgrade `Vida Extra` é a quantidade de Vida que sera adicionada no incio do round.
+> A habilidade de `Vida Extra` é a quantidade de `Vida` que será adicionada no começo de cada round.
 
-| Time > | Terrorista | CT's |
+| Time | Terrorista | CT's |
 |:-------------|:-------------|:------------------|
-| Health Intervals | 10 HP | 10 HP |
+| Intervalos de vida | 10 HP | 10 HP |
 | Nível máximo | 10 | 5 |
 | Vida máxima | 200 HP | 150 HP |
 
 ## Menu de Colete Extra
 
-> The Armor ability is the amount of AP that given to you at spawn.
+> A habilidade de `Colete Extra` é a quantidade de `Colete` que é dada a você no começo de cada round.
 
-| Time > | Terrorista | CT's |
+| Time | Terrorista | CT's |
 |:-------------|:-------------|:------------------|
-| Armor Intervals | 25 AP | 25 AP |
+| Intervalos de colete | 25 AP | 25 AP |
 | Nível máximo | 8 | 6 |
 | Colete máximo | 200 AP | 150 AP |
 
 ### Por que comprar colete?
+> Colete é um item importantíssimo para os `CT's`, como os terroristas podem comprar HE.
 
-> Colete é um item importantíssimo para os `CT's` lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem
+## Menu Chance de Renascer
 
-## Respawn Menu
+> A habilidade `Renascer` é uma chance de ser revivido quando você morrer.
 
-> The Respawn ability is chance to be respawned when you die.
-
-| Time > | Terrorista | CT's |
+| Time | Terrorista | CT's |
 |:-------------|:-------------|:------------------|
-| Chance Intervals | 15% | 25% |
+| Intervalos de chance | 15% | 25% |
 | Nível máximo | 3 | 4 |
 | Chance máxima | 45% | 100% |
 
@@ -110,14 +109,13 @@ Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
 
 > The Fall Damage ability reduces the amount of damage inflicted from falling.
 
-| Time > | Terrorista | CT's |
+| Time | Terrorista | CT's |
 |:-------------|:-------------|:------------------|
-| Reduction Intervals | 10% | 10% |
+| Intervalos de redução | 10% | 10% |
 | Nível máximo | 8 | 8 |
 | Chance máxima | 80% | 80% |
 
 #### Donate
-
 * [Steam Trade Offer](https://steamcommunity.com/tradeoffer/new/?partner=86976147&token=P6xfDcHF)
 
 #### TO-DO
