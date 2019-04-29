@@ -19,11 +19,11 @@ Você ganha XP baseado na sua jogabilidade, e podera comprar mais upgrades nos m
 ```
 ## Modos de jogo
 
-### Com blocos
+* ### Com blocos
 
 lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum<br>
 lorem ipsum lorem ipsum lorem ipsum<br>
-### Sem blocos
+* ### Sem blocos
 
 Em todos os mapas com final `_noblock`<br>
 Seus UPGRADES serão desligados para nao desbalancear o modo.<br>
