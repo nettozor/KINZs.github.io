@@ -7,6 +7,10 @@ layout: default
 HideNSeek XP Mod é um complemento para o HideNSeek.<br>
 Os jogadores ganham pontos de XP por quão bem eles jogam.
 
+## Primeira vez jogando?
+Se for sua primeira vez jogando HideNSeek XP mod, você ganhou 1000 de XP!<br>
+Você ganha XP baseado na sua jogabilidade, e podera comprar mais upgrades nos menus.
+
 ## Como ganho XP?
 
 | Ações       | XP          |
@@ -53,90 +57,15 @@ Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
 | Nível máximo | 8 | 6 |
 | Colete máximo | 200 AP | 150 AP |
 
-###### Por que comprar colete?
-> Colete é um iten importantissimo para os `CT's` lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
+### Por que comprar colete?
+> Colete é um item importantissimo para os `CT's` lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
 
-#### Header 4
+## Respawn Menu
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+> The Respawn ability is chance to be respawned when you die.
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+| Time > | Terrorista | CT's |
+|:-------------|:-------------|:------------------|
+| Chance Intervals | 15% | 25% |
+| Nível máximo | 3 | 4 |
+| Chance máxima | 45% | 100% |
