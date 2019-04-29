@@ -23,10 +23,15 @@ Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
 
 ## Grenade Menu
 
+> The Grenades ability for the XP Mod is for Terrorists only.<br>
+> The Grenades ability contains the HE Grenade, 2 Flashbangs, and Frost Nade.<br>
+> These are the grenades you are given when you receive the your items after the hide timer ends.<br>
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+|  | HE Grenade | Flashbang #1 | Flashbang #2 | Frost Nade |
+|:-------------|:-------------|:------------------|:-------------|:------------------|
+| Chance Intervals | 12.5% | 25% | 25% | 25% |
+| Max Level | 8 | 4 | 4 | 4 |
+| Max Chance | 100% | 100% | 100% | 100% |
 
 ### Header 3
 
