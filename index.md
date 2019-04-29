@@ -2,13 +2,27 @@
 layout: default
 ---
 
-# Header 1
+# O quê é XP MOD?
 
-O quê e NOBLOCK?
+HideNSeek XP Mod é um complemento para o HideNSeek.<br>
+Os jogadores ganham pontos de XP por quão bem eles jogam.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Como ganho XP?
 
-## Header 2
+| Ações       | XP          |
+|:-------------|:------------------|
+| Matar           | +65 XP |
+| Matar com `HE` | +20 XP |
+| Matar de `HS` | +50 XP |
+| Suicídio | -25 XP |
+| Sobreviver de TR | +10 XP |
+| Ganhar o Round | +15 XP |
+
+Com esses pontos de XP, você pode comprar upgrades. <br>
+Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
+
+## Grenade Menu
+
 
 > This is a blockquote following a header.
 >
