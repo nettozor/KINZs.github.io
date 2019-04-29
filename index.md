@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# O quê é XP MOD?
+# O quê é XP Mod?
 
 HideNSeek XP Mod é um complemento para o HideNSeek.<br>
 Os jogadores ganham pontos de XP por quão bem eles jogam.
@@ -21,7 +21,7 @@ Os jogadores ganham pontos de XP por quão bem eles jogam.
 Com esses pontos de XP, você pode comprar upgrades. <br>
 Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
 
-## Grenade Menu
+## Menu de Granadas
 
 > The Grenades ability for the XP Mod is for Terrorists only.<br>
 > The Grenades ability contains the HE Grenade, 2 Flashbangs, and Frost Nade.<br>
@@ -33,22 +33,28 @@ Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
 | Max Level | 8 | 4 | 4 | 4 |
 | Max Chance | 100% | 100% | 100% | 100% |
 
-### Header 3
+## Menu de Vida Extra
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+> O Upgrade `Vida Extra` é a quantidade de Vida que sera adicionada no incio do round.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+| Time > | Terrorista | CT's |
+|:-------------|:-------------|:------------------|
+| Health Intervals | 10 HP | 10 HP |
+| Nível máximo | 10 | 5 |
+| Vida máxima | 200 HP | 150 HP |
+
+## Menu de Colete Extra
+
+> The Armor ability is the amount of AP that given to you at spawn.
+
+| Time > | Terrorista | CT's |
+|:-------------|:-------------|:------------------|
+| Armor Intervals | 25 AP | 25 AP |
+| Nível máximo | 8 | 6 |
+| Colete máximo | 200 AP | 150 AP |
+
+###### Por que comprar colete?
+> Colete é um iten importantissimo para os `CT's` lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
 
 #### Header 4
 
