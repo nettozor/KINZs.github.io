@@ -28,9 +28,9 @@ lorem ipsum lorem ipsum lorem ipsum<br>
 | Mapas | Com Bloco | Sem Bloco |
 |:-------------|:------------------|:------------------|
 | Ações | XP | XP |
-| Matar | +65 XP | +45 XP |
-| Matar com `HE` | +20 XP |  |
-| Matar de `HS` | +50 XP |  |
+| Matar | +65 XP | +45 XP | |
+| Matar com `HE` | +20 XP | |
+| Matar de `HS` | +50 XP | |
 | Suicídio | -25 XP | -35 XP |
 | Sobreviver de TR | +10 XP | +60 XP |
 | Ganhar o Round | +15 XP | +50 XP |
