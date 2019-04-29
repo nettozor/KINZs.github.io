@@ -40,6 +40,8 @@ Todos os terroristas vão receber:
 | Regeneração de vida | ✕ | ✓ |
 | Imune a facadas por 3 segundos | ✓ | ✕ |
 
+* * *
+
 ## Como ganho XP?
 
 | Em Mapas | Com Bloco | Sem Bloco |
