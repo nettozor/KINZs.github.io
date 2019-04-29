@@ -58,7 +58,7 @@ Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
 | Colete máximo | 200 AP | 150 AP |
 
 ### Por que comprar colete?
-> Colete é um item importantissimo para os `CT's` lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
+> Colete é um item importantíssimo para os `CT's` lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem
 
 ## Respawn Menu
 
