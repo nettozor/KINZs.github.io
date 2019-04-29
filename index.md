@@ -141,3 +141,9 @@ Para obter uma lista desses upgrades, digite !xp e visualize os outros menus.
 
 * Como estou salvando o xp
 ```
+
+``` sourcepawn 
+new const PLUGIN_NAME[ ] = "HideNSeek: XPMod";
+new const PLUGIN_VERS[ ] = "1.7.4";
+new const PLUGIN_AUTH[ ] = "KINZ";
+```
