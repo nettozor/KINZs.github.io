@@ -28,7 +28,8 @@ lorem ipsum lorem ipsum lorem ipsum<br>
 Em todos os mapas com final `_noblock` Exemplo: `hns_devblocks_v4_noblock`<br>
 Seus UPGRADES serão desligados para não desbalancear o modo.<br>
 Você ganhara xp extra por sobreviver de TERRORISTA<br>
-Todos os terroristas receberão:
+
+#### Todos os terroristas receberão:
 * 2 Flashbangs
 * 1 Frost Nade
 
